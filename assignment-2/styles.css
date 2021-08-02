@@ -42,6 +42,11 @@ a{
 div.link {
     padding: 10px;
 }
+a:hover{
+    background-color: blueviolet;
+    color: black;
+}
+
 
 div#heading{
     height: fit-content;
@@ -164,3 +169,44 @@ div#heading{
     bottom: 0;
     left: 0;
 }
+#google:hover{
+    height: 170px;
+    width: 220px;
+}
+#stackoverflow:hover{
+    height: 170px;
+    width: 220px;
+}
+#geeksforgeeks:hover{
+    height: 170px;
+    width: 220px;
+}
+#youtube:hover{
+    height: 170px;
+    width: 220px;
+}
+#github:hover{
+    height: 170px;
+    width: 220px;
+}
+#linkedin:hover{
+    height: 170px;
+    width: 220px;
+}
+#hackerrank:hover{
+    height: 170px;
+    width: 220px;
+}
+#codechef:hover{
+    height: 170px;
+    width: 220px;
+}
+#codeforces:hover{
+    height: 170px;
+    width: 220px;
+}
+#w3schools:hover{
+    height: 170px;
+    width: 220px;
+}
+
